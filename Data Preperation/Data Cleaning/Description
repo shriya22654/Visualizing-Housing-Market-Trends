@@ -10,7 +10,7 @@ Field Renaming & Final Formatting:
 Rename any confusing field names to make them easier to understand. Also, double-check that dates, numbers, and other data types are correct, especially if you’re working with multiple tables.
 
 Optional Calculated Fields:
-If needed, create new fields using calculations—like profit margins or growth rates—to add more insights to your analysis.
+If needed, create new fields using calculations—like profit margins or growth rates—to add more insights to your analysis...
 
 Validation for Accuracy:
 Lastly, quickly verify your data by comparing key numbers with the original source or summary stats. This helps ensure your analysis will be trustworthy.
