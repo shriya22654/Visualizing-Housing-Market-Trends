@@ -37,16 +37,16 @@ The project follows a structured workflow to deliver actionable insights:
 
 | Module | Epic | Estimated Time | Status | Assigned to |
 |---|---|---|---|---|
-| Collect the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Utkarsh Sahu |
-| Loading the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Utkarsh Sahu |
-| Data Cleaning | Data Preparation | 5h 0m | Review | Utkarsh Sahu |
-| No. of Unique Visualizations | Data Visualization | 5h 0m | Review | Utkarsh Sahu |
-| Responsive and Design of Dashboard | Dashboard | 5h 0m | Review | Vidisha Singh |
-| Design of Storyboard | Storyboard | 5h 0m | Review | Vidisha Singh |
-| Amount of Data Loaded | Performance Testing | 1h 40m | Review | Vidisha Singh |
-| Utilization of Filters | Performance Testing | 1h 40m | Review | Vidisha Singh |
-| No. of Visualizations / Graphs | Performance Testing | 1h 40m | Review | Vidisha Singh |
-| Publishing | Web Integration | 2h 30m | Review | Vidisha Singh |
-| Dashboard and Story Embed with UI with Flask | Web Integration | 2h 30m | Review | Vidisha Singh |
-| Record Explanation Video for End to End Solution | Project Demonstration & Documentation | 2h 30m | Review | Utkarsh Sahu |
-| Project Documentation | Project Demonstration & Documentation | 2h 30m | Review | Utkarsh Sahu |
+| Collect the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Shriya Gupta |
+| Loading the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Shreyasi Tyagi |
+| Data Cleaning | Data Preparation | 5h 0m | Review | Tarun Verma |
+| No. of Unique Visualizations | Data Visualization | 5h 0m | Review | Shriya Gupta |
+| Responsive and Design of Dashboard | Dashboard | 5h 0m | Review | Shreyasi Tyagi |
+| Design of Storyboard | Storyboard | 5h 0m | Review | Tarun Verma |
+| Amount of Data Loaded | Performance Testing | 1h 40m | Review | Shriya Gupta |
+| Utilization of Filters | Performance Testing | 1h 40m | Review | Shreyasi Tyagi |
+| No. of Visualizations / Graphs | Performance Testing | 1h 40m | Review | Tarun Verma |
+| Publishing | Web Integration | 2h 30m | Review | Shriya Gupta |
+| Dashboard and Story Embed with UI with Flask | Web Integration | 2h 30m | Review | Shreyasi Tyagi |
+| Record Explanation Video for End to End Solution | Project Demonstration & Documentation | 2h 30m | Review | Tarun Verma |
+| Project Documentation | Project Demonstration & Documentation | 2h 30m | Review | Shreyasi Tyagi |
