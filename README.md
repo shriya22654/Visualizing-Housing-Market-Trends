@@ -26,11 +26,11 @@ This grouped bar chart displays the distribution of house ages categorized by th
 
 The project follows a structured workflow to deliver actionable insights:
 
-- **Data Collection:** Collect the dataset and connect it with Tableau.
-- **Data Preparation:** Prepare and clean the data for visualization.
-- **Data Visualizations:** Build visualizations and design a responsive dashboard.
+- **Data Collection: ** Collect the dataset and connect it with Tableau.
+- **Data Preparation: ** Prepare and clean the data for visualization.
+- **Data Visualizations: ** Build visualizations and design a responsive dashboard.
 - **Storyboard:** Create a storyboard to present the analysis flow.
-- **Performance Testing:** Validate the utilization of data filters, calculation fields, and the number of visualizations.
+- **Performance Testing: ** Validate the utilization of data filters , calculation fields , and the number of visualizations.
 - **Web Integration:** Publish the dashboard and embed the story in a UI built with Flask.
 
 ## Project Modules
@@ -49,4 +49,4 @@ The project follows a structured workflow to deliver actionable insights:
 | Publishing | Web Integration | 2h 30m | Review | Shreyasi Tyagi |
 | Dashboard and Story Embed with UI with Flask | Web Integration | 2h 30m | Review | Tarun Verma |
 | Record Explanation Video for End to End Solution | Project Demonstration & Documentation | 2h 30m | Review | Varun Malik |
-| Project Documentation | Project Demonstration & Documentation | 2h 30m | Review | Shreyasi Tyagi |
+| Project Documentation | Project Demonstration & Documentations | 2h 30m | Review | Shreyasi Tyagi |
