@@ -8,7 +8,7 @@ This project was developed for ABC Company to address the challenges of understa
 
 ### Scenario 1: Overall Data Overview
 
-This visualization presents a summary of the dataset, showing the count of transformed housing data records, the average sales price, and the total basement area in square feet. It provides a quick snapshot of the dataset's scale and key metrics, giving stakeholders a foundational understanding of the data being analyzed.
+This visualization present a summary of the dataset, showing the count of transformed housing data records, the average sales price, and the total basement area in square feet. It provides a quick snapshot of the dataset's scale and key metrics, giving stakeholders a foundational understanding of the data being analyzed.
 
 ### Scenario 2: Total Sales by Years Since Renovation
 
