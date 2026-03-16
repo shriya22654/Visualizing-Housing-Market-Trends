@@ -35,7 +35,7 @@ The project follows a structured workflow to deliver actionable insights:
 
 ## Project Modules
 
-| Module | Epic | Estimated Time | Status | Assigned to |
+| Module | Epic | Estimated Time | Status | Assigned To |
 |---|---|---|---|---|
 | Collect the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Shriya Gupta |
 | Loading the Dataset | Data Collection & Extraction from Database | 2h 30m | Review | Shreyasi Tyagi |
@@ -49,4 +49,4 @@ The project follows a structured workflow to deliver actionable insights:
 | Publishing | Web Integration | 2h 30m | Review | Shreyasi Tyagi |
 | Dashboard and Story Embed with UI with Flask | Web Integration | 2h 30m | Review | Tarun Verma |
 | Record Explanation Video for End to End Solution | Project Demonstration & Documentation | 2h 30m | Review | Varun Malik |
-| Project Documentation | Project Demonstration & Documentation | 2h 30m | Review | Shreyasi Tyagi |
+| Project Documentations | Project Demonstration & Documentation | 2h 30m | Review | Shreyasi Tyagi |
