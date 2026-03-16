@@ -16,7 +16,7 @@ This histogram illustrates the distribution of total sales based on the number o
 
 ### Scenario 3: Distribution of House Age by Renovation Status
 
-This pie chart shows the distribution of houses based on their age and renovation status. Each segment represents a different age group, offering insight into how house age is spread across the dataset and the proportion of renovated versus non-renovated houses. This visualization assists in assessing the age characteristics of the housing inventory and the prevalence of renovations.
+This pie chart shows the distribution of houses based on their age and renovation status. Each segment represents a different age group, offering insight into how house age is spread across the dataset and the proportion of renovated versus non-renovated houses. This visualization assist in assessing the age characteristics of the housing inventory and the prevalence of renovations.
 
 ### Scenario 4: House Age Distribution by Number of Bathrooms, Bedrooms, and Floors
 
